@@ -1,17 +1,25 @@
 ﻿{
-  "schemaVersion": 1,
-  "app": "Toan Vui Lop 12 - Tug Of War",
-  "contentVersion": "bundled-in-app-2026.05.21.1",
-  "updatedAt": "2026-05-21T12:35:00Z",
-  "latestAppVersion": "1.0",
-  "appUpdate": {
-    "android": {
-      "minVersion": "1.0",
-      "latestVersion": "1.0",
-      "url": "https://github.com/caucieng/toanvuilop12-update/releases/latest",
-      "message": "Vui lòng cập nhật phiên bản mới!!!."
-    }
-  },
-  "grades": {},
-  "bundledContentOnly": true
+    "contentVersion":  "bundled-in-app-2026.05.22.1",
+    "bundledContentOnly":  true,
+    "app":  "Toan Vui Lop 1-12 - Tug Of War",
+    "appUpdate":  {
+                      "windows":  {
+                                      "latestVersion":  "1.6.0",
+                                      "message":  "Vui lòng cập nhật phiên bản mới!!!.",
+                                      "url":  "https://github.com/caucieng/toanvuilop12-update/releases/latest",
+                                      "minVersion":  "1.6.0"
+                                  },
+                      "android":  {
+                                      "latestVersion":  "1.6",
+                                      "message":  "Vui lòng cập nhật phiên bản mới!!!.",
+                                      "url":  "https://github.com/caucieng/toanvuilop12-update/releases/latest",
+                                      "minVersion":  "1.6"
+                                  }
+                  },
+    "latestAppVersion":  "1.6",
+    "schemaVersion":  1,
+    "grades":  {
+
+               },
+    "updatedAt":  "2026-05-22T08:54:57Z"
 }
