@@ -4,10 +4,10 @@
     "app":  "Toan Vui Lop 1-12 - Tug Of War",
     "appUpdate":  {
                       "windows":  {
-                                      "latestVersion":  "1.7.0",
+                                      "latestVersion":  "1.6.0",
                                       "message":  "Vui lòng cập nhật phiên bản mới!!!.",
                                       "url":  "https://drive.google.com/drive/u/0/folders/1xUGNVvC-IMhoID8yy-mY1ahZKcRMAbYH",
-                                      "minVersion":  "1.7.0"
+                                      "minVersion":  "1.6.0"
                                   },
                       "android":  {
                                       "latestVersion":  "1.6",
