@@ -4,10 +4,10 @@
     "app":  "Toan Vui Lop 1-12 - Tug Of War",
     "appUpdate":  {
                       "windows":  {
-                                      "latestVersion":  "1.6.0",
+                                      "latestVersion":  "1.7.0",
                                       "message":  "Vui lòng cập nhật phiên bản mới!!!.",
                                       "url":  "https://github.com/caucieng/toanvuilop12-update/releases/latest",
-                                      "minVersion":  "1.6.0"
+                                      "minVersion":  "1.7.0"
                                   },
                       "android":  {
                                       "latestVersion":  "1.6",
