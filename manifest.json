@@ -21,12 +21,12 @@
     "grades":  {
 
                },
-    "updatedAt":  "2026-05-22T11:35:00Z",
+    "updatedAt":  "2026-05-22T11:55:00Z",
     "analytics":  {
-                      "enabled":  false,
+                      "enabled":  true,
                       "provider":  "googleSheets",
                       "googleSheets":  {
-                                           "url":  "",
+                                           "url":  "https://script.google.com/macros/s/AKfycbzWKML-UldJEr8F0N6QJVzC8rQI3UVWyJovUS34Twal_1iIVRlpz_uSE4my4IAgc2pU/exec",
                                            "secret":  ""
                                        }
                   }
