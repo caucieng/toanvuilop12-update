@@ -21,7 +21,16 @@
     "grades":  {
 
                },
-    "updatedAt":  "2026-05-22T11:55:00Z",
+    "updatedAt":  "2026-05-22T15:10:00Z",
+    "ads":  {
+                "enabled":  false,
+                "type":  "static",
+                "title":  "",
+                "message":  "",
+                "imageUrl":  "",
+                "backgroundColor":  "#FFFFFF",
+                "textColor":  "#0F2752"
+            },
     "analytics":  {
                       "enabled":  true,
                       "provider":  "googleSheets",
