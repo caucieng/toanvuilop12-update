@@ -21,13 +21,13 @@
     "grades":  {
 
                },
-    "updatedAt":  "2026-05-22T15:25:00Z",
+    "updatedAt":  "2026-05-22T15:55:00Z",
     "ads":  {
                 "enabled":  true,
                 "type":  "static",
                 "title":  "",
                 "message":  "",
-                "imageUrl":  "https://raw.githubusercontent.com/caucieng/toanvuilop12-update/main/ads/chuc-cac-con-hoc-tot.png",
+                "imageUrl":  "https://raw.githubusercontent.com/caucieng/toanvuilop12-update/main/ads/chuc-cac-con-hoc-tot-alpha.png",
                 "backgroundColor":  "#FFFFFF",
                 "textColor":  "#0F2752"
             },
